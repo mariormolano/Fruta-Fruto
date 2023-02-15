@@ -1,0 +1,31 @@
+.banner_tituloF{
+    background: url('../../img/banner.png') no-repeat center / cover;
+    background-size: 110vw;
+    background-position-x: -10vw;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color:#fdfdfd;
+    font-family: Pacifico, cursive;
+    font-size: 9vw;
+    position: absolute;
+}
+
+.banner_tituloB{
+    color:#fdfdfd;
+    font-family: Pacifico, cursive;
+    font-size: 9vw;
+    position: absolute;
+    text-shadow:
+    0px 0px 2px #000000,
+    0px 0px 2px #000000,
+    0px 0px 2px #000000,
+    0px 0px 4px #ffffff,
+    0px 0px 4px #ffffff,
+    0px 0px 4px #ffffff,
+    0px 0px 4px #ffffff,
+    0px 0px 4px #ffffff,
+    0px 0px 4px #ffffff,
+    -1vw 1vw 1vw #000000d3;
+}
+

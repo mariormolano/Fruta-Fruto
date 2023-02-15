@@ -1,0 +1,18 @@
+:root{
+    --cabecera-background-color: #e0e0e0;
+}
+
+body{
+    background: var(--cabecera-background-color);
+    /* scroll-behavior: smooth; */
+    /* padding-left: 11.5vw; */
+}
+
+.cabecera{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

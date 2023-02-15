@@ -1,0 +1,10 @@
+.rodapie__descripcion{
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+    color: #8c8888;
+    width: 250px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+}

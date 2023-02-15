@@ -1,0 +1,10 @@
+.receta__titulo{
+    font-size: 1.5rem;
+    background: #fde4c2;
+    padding: 5px 0;
+    text-align: center;
+    height: 51px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

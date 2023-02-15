@@ -1,0 +1,11 @@
+.rodapie__titulo{
+    display: flex;
+    color: #da2b1f;
+    text-shadow: 0 0 5px #da2b1f;
+    font-weight: 400;
+    font-size: 2rem;
+    width: 261px;
+    height: 34px;
+    justify-content: center;
+    align-items: center;
+}

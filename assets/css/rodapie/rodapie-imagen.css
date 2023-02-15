@@ -1,0 +1,10 @@
+.rodapie__imagen{
+    width: 44px;
+    transition: all 0.5s;
+    filter: drop-shadow(0 0 0);
+}
+
+.rodapie__imagen:hover{
+    width: 55px;
+    filter:drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.507));
+}

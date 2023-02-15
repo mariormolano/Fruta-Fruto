@@ -1,0 +1,10 @@
+.receta{
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    border: 1px solid #e5e5e5a1;
+    border-radius: 0 0 20px 20px;
+    overflow: hidden;
+    box-shadow: 3px 3px 20px #00000087;
+}

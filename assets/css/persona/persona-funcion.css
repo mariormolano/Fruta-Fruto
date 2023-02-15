@@ -1,0 +1,8 @@
+.persona__funcion{
+    font-weight: 400;
+    font-size: 23px;
+    color: hsl(252deg 49% 21%);
+    background: hsl(252deg 60% 61%);
+    width: 100%;
+    padding: 7px;
+}

@@ -1,0 +1,9 @@
+.rodapie__lista{
+    display: flex;
+    max-width: 300px;
+    min-width: 200px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    gap: 20px;
+}

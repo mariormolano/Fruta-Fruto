@@ -1,0 +1,14 @@
+.menu__item{
+    list-style: none;
+    transition: all 1s;
+    position: relative;
+    height: 3vw;
+    display: flex;
+    align-items: center;
+    top: -0.5vw;
+}
+.menu__item:hover{
+    font-weight: 600;
+    transition: all 0.5s;
+    background: hsl(0, 0%, 0%);
+}
